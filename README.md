@@ -26,5 +26,5 @@
 
 ----------------------------------------------------
 
-- 📫 How to reach me: https://www.linkedin.com/in/maija-klusa/
+- 📫  https://www.linkedin.com/in/maija-klusa/
 
