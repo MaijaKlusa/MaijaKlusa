@@ -28,4 +28,5 @@
 
 - 📫  https://www.linkedin.com/in/maija-klusa/
 - https://www.codingame.com/profile/1a733e710aaa1359734cca1b051362dd6873694
+- https://www.codelex.io/for-companies
 
