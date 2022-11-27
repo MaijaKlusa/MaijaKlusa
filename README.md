@@ -2,9 +2,10 @@
  Hello! I’m Maija, PHP developer from Riga, Latvia.
 -----------------------------------------------------
 👀
- - I’m interested in different programing languages. Currently learning PHP, JavaScript & TypeScript.
- - Have experience with Angular, React, Vue, HTML & CSS.
- - Currently working on my first News API project.
+ - I have recently chosen to change my profession and focus on coding by investing all my time.
+ - Started with PHP, JavaScript & TypeScript.
+ - Have experience with Angular, React, HTML & CSS.
+ - Currently working on my Next.js website.
 - -----------------------------------------
 
 🧰 Toolbox  . . . . .
